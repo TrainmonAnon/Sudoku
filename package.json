@@ -1,0 +1,12 @@
+{
+  "name": "sudoku",
+  "version": "1.0.0",
+  "description": "Randomly generates Sudoku puzzles",
+  "main": "sudoku.js",
+  "scripts": {
+    "start": "node sudoku.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brandon Fletcher",
+  "license": "ISC"
+}
